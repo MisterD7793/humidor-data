@@ -1,7 +1,7 @@
 {
-  "humidity": 61.11,
-  "temperature_f": 73.96,
-  "timestamp": "2026-07-13T08:18:06.850520+00:00",
+  "humidity": 61.07,
+  "temperature_f": 73.9,
+  "timestamp": "2026-07-13T09:19:09.551037+00:00",
   "status": "ok",
   "humidity_min": 55.0,
   "humidity_max": 75.0,
